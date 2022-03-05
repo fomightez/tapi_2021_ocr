@@ -1,6 +1,6 @@
 # Images to Text: A Gentle Introduction to Optical Character Recognition with PyTesseract
 
-[![Binder](https://binder.constellate.org/badge_logo.svg)](https://binder.constellate.org/v2/gh/hlj24/tapi_2021_ocr/main)
+[![Binder](https://binder.constellate.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tapi_2021_ocr/main)
 
 ## Description
 
